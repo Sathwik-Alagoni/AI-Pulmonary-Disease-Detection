@@ -6,6 +6,7 @@
 > **AI-Powered Pulmonary Disease Diagnosis**: A deep learning classifier to detect Pneumonia, COVID-19, Tuberculosis, and Normal from chest X-ray images.
 
 ---
+
 <video width="600" controls>
   <source src="WhatsApp Video 2025-06-13 at 10.11.53.mp4" type="video/mp4">
   Your browser does not support the video tag.
